@@ -8,18 +8,20 @@ Visual components and Python
 ## Theory:
 Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
 
-![image](1.png)
+![1](https://github.com/Renusri-Naraharasetty/Single-server-infinite-capacity---Markov-Model/assets/146916363/dbde5b77-2c5a-43d6-8796-7ba8585b83c6)
+
 
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
 ## Procedure :
 
-![imAGE](2.png)
+![2](https://github.com/Renusri-Naraharasetty/Single-server-infinite-capacity---Markov-Model/assets/146916363/9c358992-52d8-446b-bdeb-ce6ffbfe3b03)
+
 
 ## EXPERIMENT:
-![Alt text](exp1.png)
 
-![Alt text](exp1.png)
+![exp1](https://github.com/Renusri-Naraharasetty/Single-server-infinite-capacity---Markov-Model/assets/146916363/885369f5-ebb1-47a7-acd6-f4a37ef9585b)
+
  
 ## Program:
 ```
@@ -51,7 +53,9 @@ print("---------------------------------------------------------------")
 
 
 ## Output :
-![Alt text](output.png)
+
+![output](https://github.com/Renusri-Naraharasetty/Single-server-infinite-capacity---Markov-Model/assets/146916363/b882f477-f62b-4c58-8ec8-6cce9684cab8)
+
 
 ## Result :
 Thus the program was executed sucessfully and got the output.
